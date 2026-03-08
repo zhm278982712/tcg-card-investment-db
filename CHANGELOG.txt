@@ -1,0 +1,21 @@
+TCG Card Investment Database 1.0.6
+
+Included in this release:
+1. Local web and desktop app
+2. Create, delete, import, and export TCG libraries
+3. Card master records with Pokemon-based example placeholders
+4. Card images from file upload or direct clipboard paste
+5. Automatic image normalization to a consistent card-sized canvas
+6. Purchase records, sale records, and investment records
+7. Inventory quantity and average cost derived from transaction history
+8. Group and tag fields for each card
+9. Combined filtering by search, group, tag, owned-only, and planned-only
+10. Support panel for donation QR code display
+11. Legacy local database migration
+12. Windows installer build
+13. Windows portable build
+
+Notes:
+1. This release is currently unsigned.
+2. This package targets Windows x64.
+3. The donation QR image is bundled in this release and will display directly in-app.

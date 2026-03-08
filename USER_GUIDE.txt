@@ -1,0 +1,38 @@
+TCG Card Investment Database
+Version: 1.0.6
+
+Files included:
+1. *-setup.exe
+   Installer version for most users.
+2. *-portable.exe
+   Portable version, no installation required.
+3. USER_GUIDE.txt / CHANGELOG.txt
+   Release documentation.
+
+Recommended usage:
+1. Run the setup version if you want a normal installation.
+2. Run the portable version if you want a standalone executable.
+
+First launch:
+1. The app creates its own local data folder on the user's computer.
+2. Card data and uploaded images stay on the user's own machine.
+3. The app does not depend on the author's computer.
+
+Windows security prompt:
+This build is currently unsigned.
+If Windows shows an "Unknown Publisher" or SmartScreen warning:
+1. Click "More info"
+2. Click "Run anyway"
+
+Supported system:
+1. Windows x64
+
+Main features:
+1. Create TCG libraries
+2. Add card records
+3. Manage purchase, sale, and investment records
+4. Derive inventory quantity and average cost automatically
+5. Filter by group, tag, search keyword, owned status, and plan gap
+6. Import and export library data
+7. Paste card images directly from the clipboard
+8. Show the bundled donation QR code directly in the sidebar
