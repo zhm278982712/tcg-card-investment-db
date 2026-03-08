@@ -35,4 +35,3 @@ Main features:
 5. Filter by group, tag, search keyword, owned status, and plan gap
 6. Import and export library data
 7. Paste card images directly from the clipboard
-8. Show the bundled donation QR code directly in the sidebar
